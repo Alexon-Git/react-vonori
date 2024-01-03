@@ -24,7 +24,6 @@ function Profile() {
 
 				<div className="block-right pt-5 pl-10 pb-10 pr-10">
 					<h4 className="">Данные доставки</h4>
-					<h4 className="">Данные доставки</h4>
 					<button className="buy d-flex w100p "><p>Редактировать</p></button>
 				</div>
 			</div>
